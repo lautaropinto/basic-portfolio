@@ -1,3 +1,4 @@
 # portfolio
-portafolio Android
-https://xvirs.github.io/Portfolio/
+V0 Web portfolio.
+
+SwiftUI portfolio in progress..
